@@ -7,3 +7,5 @@ learned about importing new assests into the scene (I made a square)
 
 8-25
 Began building a rolly ball game. Created a plane environment
+
+added blocks and a ball to the game
