@@ -12,3 +12,5 @@ added a ball to the game
 
 added walls to the game area, wrote controllers for ball movement (physics, variable speed)
 and camera (tracks the player object)
+
+added floating cubes. added a script to make them rotate
