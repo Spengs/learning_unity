@@ -8,4 +8,7 @@ learned about importing new assests into the scene (I made a square)
 8-25
 Began building a rolly ball game. Created a plane environment
 
-added blocks and a ball to the game
+added a ball to the game
+
+added walls to the game area, wrote controllers for ball movement (physics, variable speed)
+and camera (tracks the player object)
