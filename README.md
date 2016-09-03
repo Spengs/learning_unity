@@ -14,3 +14,7 @@ added walls to the game area, wrote controllers for ball movement (physics, vari
 and camera (tracks the player object)
 
 added floating cubes. added a script to make them rotate
+
+modified the cubes to make them collectable
+added a counter for pick ups
+added a win condition and win text
