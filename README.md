@@ -18,3 +18,5 @@ added floating cubes. added a script to make them rotate
 modified the cubes to make them collectable
 added a counter for pick ups
 added a win condition and win text
+
+created a .exe build of the game
