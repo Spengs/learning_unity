@@ -20,3 +20,5 @@ added a counter for pick ups
 added a win condition and win text
 
 created a .exe build of the game
+
+began looking into web GL for website deployment
